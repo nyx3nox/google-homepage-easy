@@ -23,7 +23,7 @@ header {
 }
 
 div {
-  position: relative;
+  position: absolute;
   top: 35%;
   left: 50%;
 }
